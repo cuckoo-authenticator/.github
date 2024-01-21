@@ -1,1 +1,1 @@
-# .github
+# Cuckoo Authenticator
