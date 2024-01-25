@@ -6,7 +6,7 @@ It consists of a server and clients components. It is designed to maintain end-t
 
 ## Server
 
-Server part is written in Go and its source code is available here https://github.com/cuckoo-authenticator/server under MIT license. Docker image is available here https://hub.docker.com/repository/docker/serhiylunak/cuckoo/general.
+Server component is written in Go and its source code is available here https://github.com/cuckoo-authenticator/server under AGPL-3.0 license. Docker image is available here https://hub.docker.com/repository/docker/serhiylunak/cuckoo/general.
 
 ## Clients
 
