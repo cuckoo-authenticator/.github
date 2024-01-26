@@ -16,4 +16,4 @@ Apps for other platforms are planned with the following priority order: Android,
 
 # Contribution
 
-I would love to understand if there is any interest in this self hosted TOTP solution. Please let me know by opening an issue [here](https://github.com/cuckoo-authenticator/.github/issues).
+I would love to understand if there is any interest in this self hosted TOTP solution. Please leave your opinion [here](https://github.com/orgs/cuckoo-authenticator/discussions/1).
